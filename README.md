@@ -10,7 +10,6 @@ The program requires Python 3.7 or higher.
 
 #### Dependencies
 
-The package has several dependencies 
 * [NetworkX](https://networkx.github.io/)
 * [tralda](https://github.com/david-schaller/tralda)
 
