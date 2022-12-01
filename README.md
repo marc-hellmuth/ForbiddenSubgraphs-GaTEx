@@ -23,9 +23,9 @@ Note that this program is part of a computer-assisted proof. In particular, the 
 
 If you use `ForbiddenSubgraphs-GaTEx` in your project or code from it, please consider citing:
 
-*[1] **M. Hellmuth, G.E. Scholz (2022) Resolving Prime Modules: The Structure of Pseudo-cographs and Galled-Tree Explainable Graphs (arXiv)**
+* [1] **M. Hellmuth, G.E. Scholz (2022) Resolving Prime Modules: The Structure of Pseudo-cographs and Galled-Tree Explainable Graphs (arXiv)**
 
-*[2] **M. Hellmuth, G.E. Scholz (2022) From Modular Decomposition Trees to Level-1 networks: Pseudo-Cographs, Polar-Cats and Prime Polar-Cats, 		Discr. Appl. Math, 321, 179-219**
+* [2] **M. Hellmuth, G.E. Scholz (2022) From Modular Decomposition Trees to Level-1 networks: Pseudo-Cographs, Polar-Cats and Prime Polar-Cats, 		Discr. Appl. Math, 321, 179-219**
 
 Please report any bugs and questions in the [Issues](https://github.com/marc-hellmuth/ForbiddenSubgraphs-GaTEx/issues) section.
 
