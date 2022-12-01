@@ -2,7 +2,7 @@
 
 [![license: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-A Python program to find all forbidden subgraphs of graphs that can be explained by 0/1 labeled galled trees.
+A Python program to find all minimal forbidden induced subgraphs of graphs that can be explained by 0/1 labeled galled trees.
 
 ## Installation
 
