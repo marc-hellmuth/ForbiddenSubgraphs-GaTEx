@@ -15,7 +15,7 @@ The program requires Python 3.7 or higher.
 
 ## Usage and description
 
-Galled-tree explainable graphs, called <em>gatex graphs</em>, are graphs that can be explained by 0/1-labeled galled trees and thus, generalize the class of cographs, see [2]. This program takes as input a list of all graphs ordered from size 5, 6, 7, to K vertices and verifies if any of these graphs is a forbidden induced subgraph of a gatex graph. 
+Galled-tree explainable graphs, called <em>gatex graphs</em>, are graphs that can be explained by 0/1-labeled galled trees and thus, generalize the class of cographs. This program takes as input a list of all graphs ordered from size 5, 6, 7, to K vertices and verifies if any of these graphs is a forbidden induced subgraph of a gatex graph. 
 
 Note that this program is part of a computer-assisted proof. In particular, the computed forbidden subgraphs up to size 8 form the base case of an induction proof to show that these forbidden subgraphs characterize gatex graphs. In order to make it as easy as possible for the reader to verify that this implementation correctly computes these subgraphs we refer to Alg. 1 in [1] and argue that Alg. 1 is implemented here to be readable as easy as possible and thus, mainly brute-force routines are used, although such a simplified implementation goes hand in hand with a possibly lower runtime. The  forbidden subgraphs are shown  in ![figure](https://github.com/marc-hellmuth/ForbiddenSubgraphs-GaTEx/blob/main/ForbGT_new.pdf?raw=true).
 
