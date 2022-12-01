@@ -19,8 +19,6 @@ Galled-tree explainable graph, called <em>gatex graphs</em>, are graphs that can
 
 Note that this program is part of a computer-assisted proof. In particular, the computed forbidden subgraphs up to size 8 form the base case of an induction proof to show that these forbidden subgraphs characterize gatex graphs. In order to make it as easy as possible for the reader to verify that this implementation correctly computes these subgraphs we refer to Alg. 1 in [1] and argue that Alg. 1 is implemented here to be readable as easy as possible and thus, mainly brute-force routines are used, although such a simplified implementation goes hand in hand with a possibly lower runtime. The  forbidden subgraphs are shown  in ![figure](https://github.com/marc-hellmuth/ForbiddenSubgraphs-GaTEx/blob/main/ForbGT_new.pdf?raw=true).
 
-<img src="ForbGT_new.pdf" alt="Forbidden Subgraphs of Gatex Graphs" style="height: 100px; width:100px;"/>
-
 ## Citation and references
 
 If you use `ForbiddenSubgraphs-GaTEx` in your project or code from it, please consider citing:
